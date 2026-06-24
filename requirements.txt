@@ -1,0 +1,13 @@
+# Core (required)
+openai>=1.40.0          # talks to the Sakana Responses API
+
+# File understanding (recommended — install for full file support)
+pypdf>=4.0.0            # PDF text extraction
+python-docx>=1.1.0      # .docx
+python-pptx>=0.6.23     # .pptx
+openpyxl>=3.1.0         # .xlsx / .xlsm spreadsheets
+pillow>=10.0.0          # image handling / clipboard paste
+pymupdf>=1.24.0         # render scanned PDF pages to images
+
+# Optional niceties
+tkinterdnd2>=0.4.0      # drag-and-drop files onto the window

@@ -1,0 +1,30 @@
+# ---- Secrets: NEVER commit your API key ----
+api_key.txt
+.env
+
+# ---- Personal data ----
+# your saved conversations
+chats/
+# your token-usage totals
+usage_stats.json
+# workspace change history written next to edited folders
+.fugu_history/
+
+# ---- Misc junk / logs ----
+chrome-net-export-log.json
+*.log
+
+# ---- Python build artefacts ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- Editor / OS ----
+.claude/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
