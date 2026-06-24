@@ -111,14 +111,6 @@ Click **📜 Activity log** to see every change Fugu made — with an **ID**, ti
 - **"No API key"** → paste your key in the box and click **Save key**, or set `FUGU_API_KEY`.
 - **Drag-and-drop doesn't work** → `pip install tkinterdnd2` (it's optional).
 - **PDF/DOCX/PPTX won't read** → install the file deps: `pip install -r requirements.txt`.
-- **Logo not showing** → make sure `logo.png` is in this folder (see below).
-
----
-
-## 📦 Notes for this repository
-
-- The header logo is loaded from **`logo.png`** in the project root. Keep that file alongside `fugu.py`.
-- Secrets and personal data are excluded via `.gitignore` — this repo is safe to publish.
 
 ---
 
