@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Fugu Studio — Sakana AI" width="520">
+  <img src="fugu_img.png" alt="Fugu Studio — Sakana AI" width="520">
 </p>
 
 <h1 align="center">Fugu Studio</h1>
